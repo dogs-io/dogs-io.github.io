@@ -1,4 +1,3 @@
 User-agent: *
-Disallow:
-
+Disallow: /assets/
 Sitemap: https://dogs-io.com/sitemap.xml
