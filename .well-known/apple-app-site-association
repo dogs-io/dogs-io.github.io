@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "GD44PC4U7P.com.srg.sos"
+        ],
+        "components": [
+          {
+            "/": "/SosPetsAndroid/getrexy/ride/????????-????-????-????-????????????",
+            "comment": "GetRexy ride UUID links only"
+          }
+        ]
+      }
+    ]
+  }
+}
