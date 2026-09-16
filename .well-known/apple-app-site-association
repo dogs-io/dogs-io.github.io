@@ -7,8 +7,17 @@
         ],
         "components": [
           {
-            "/": "/SosPetsAndroid/getrexy/ride/????????-????-????-????-????????????",
-            "comment": "GetRexy ride UUID links only"
+            "/": "/p/*/*",
+            "exclude": true,
+            "comment": "Do not claim nested paths beneath a pet ID"
+          },
+          {
+            "/": "/p/*",
+            "comment": "Permanent canonical pet links"
+          },
+          {
+            "/": "/r/*",
+            "comment": "GetRexy ride links; the app strictly validates UUID syntax"
           }
         ]
       }

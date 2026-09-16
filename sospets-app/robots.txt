@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /guide/
+Disallow: /guide-auth/
+
+Sitemap: https://sospets.app/sitemap.xml
