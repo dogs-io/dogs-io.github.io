@@ -113,3 +113,4 @@ footer nav { justify-content:end; }
 @media(max-width:600px) { .language-label{display:none}.language-control{width:2.75rem;padding:0;border-radius:50%} }
 @media(max-width:480px) { .brand{font-size:1.02rem}.store-links img{height:2.9rem}.hero-visual{min-height:22rem}.download-section{grid-template-columns:1fr}.download-section .store-links{grid-column:auto}.social-panel{padding-inline:.5rem}.social-links{gap:.15rem}.social-icon{width:2.9rem;height:2.9rem}.social-icon svg{width:1.5rem;height:1.5rem}.social-links a{font-size:.72rem} }
 @media(prefers-reduced-motion:reduce) { html{scroll-behavior:auto}.store-links a,.site-header nav,.menu-backdrop{transition:none} }
+@media(max-width:800px) { .site-header nav.is-open .menu-download { margin-top:1rem; } }
