@@ -11,7 +11,7 @@ The protected volunteer guide remains a separate build at `/guide/`. Public
 landing assets use the `/landing-assets/` URL prefix.
 
 The footer keeps `© 2026 SOS Pets Mobile` as the copyright line. Its separate
-centered developer credit links Sergei Bazarnik to `https://dogs-io.com/`; use
+centered developer credit links Sergei Bazarnik to `https://bazarnik.dev/`; use
 `סרגיי בזרניק` on the Hebrew page and keep both language variants synchronized.
 
 The landing page follows the device light/dark preference on first visit. Its

@@ -7,13 +7,8 @@
         ],
         "components": [
           {
-            "/": "/p/*/*",
-            "exclude": true,
-            "comment": "Do not claim nested paths beneath a pet ID"
-          },
-          {
             "/": "/p/*",
-            "comment": "Permanent canonical pet links"
+            "comment": "Permanent pet app links"
           },
           {
             "/": "/r/*",
