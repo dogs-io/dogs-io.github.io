@@ -6,4 +6,4 @@ Allow: /
 
 User-agent: *
 Disallow: /assets/
-Sitemap: https://dogs-io.com/sitemap.xml
+Sitemap: https://bazarnik.dev/sitemap.xml
