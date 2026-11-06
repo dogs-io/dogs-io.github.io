@@ -1,0 +1,9 @@
+.not-found-page { display:flex; min-height:100vh; min-height:100svh; flex-direction:column; }
+.not-found { display:grid; flex:1; place-items:center; padding:clamp(3rem,8vw,6rem) 1.25rem; background:var(--cream); text-align:center; }
+.not-found-copy { width:min(100%,44rem); }
+.not-found-code { display:flex; justify-content:center; align-items:center; gap:.08em; margin:0 0 1.5rem; color:var(--green); font-size:clamp(7rem,24vw,12rem); font-weight:800; line-height:1; letter-spacing:-.06em; }
+.not-found-code svg { width:.72em; height:.72em; padding:.12em; border:2px solid var(--line); border-radius:50%; background:var(--white); fill:currentColor; }
+.not-found h1 { max-width:none; margin:auto; font-size:clamp(2rem,5vw,3.5rem); line-height:1.15; letter-spacing:-.025em; }
+.not-found-summary { max-width:34rem; margin:1.25rem auto 2rem; color:var(--muted); font-size:1.15rem; }
+.not-found-actions { display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:1.25rem; }
+.not-found .button { color:var(--white); background:var(--green-dark); }
